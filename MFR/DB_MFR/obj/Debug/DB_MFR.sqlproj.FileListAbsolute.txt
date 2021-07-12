@@ -1,0 +1,6 @@
+C:\Users\dpacini\source\repos\MFR\DB_MFR\bin\Debug\DB_MFR.dacpac
+C:\Users\dpacini\source\repos\MFR\DB_MFR\bin\Debug\DB_MFR.dll
+C:\Users\dpacini\source\repos\MFR\DB_MFR\bin\Debug\DB_MFR.pdb
+C:\Users\dpacini\source\repos\MFR\DB_MFR\obj\Debug\DB_MFR.sqlprojAssemblyReference.cache
+C:\Users\dpacini\source\repos\MFR\DB_MFR\obj\Debug\DB_MFR.dll
+C:\Users\dpacini\source\repos\MFR\DB_MFR\obj\Debug\DB_MFR.pdb
